@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @VieCodess
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning how to build web apps
-- 💞️ I’m looking to collaborate on fellow developers
+- 🌱 I’m a full stack developer
+- I am currently turning some ideas into working products
+- 💞️ I’m looking to collaborate with fellow developers
 - 📫 How to reach me ...
 
 <!---
